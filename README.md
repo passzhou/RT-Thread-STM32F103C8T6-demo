@@ -6,9 +6,10 @@
 
 ## 准备工作
 
-- **源码下载**
+- **RT-Thread源码下载**
 
 [官方Gitee镜像源下载](https://gitee.com/rtthread/rt-thread/tags)[^1]
 
-[^1]:本项目使用代码版本为`rt-thread-v5.0.0`
+[^1]:本项目使用RT-Thread源码版本为`rt-thread-v5.0.0`
 
+**原创：fly☆飞**
